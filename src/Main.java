@@ -68,6 +68,10 @@ public class Main {
 
         Iterator<Transport> itermotorist1 = motorist1.iterator();
 
-        System.out.println(motorist1);
+        while (itermotorist1.hasNext()) {
+            Transport transport = itermotorist1.next();
+
+            System.out.println(transport);
+        }
     }
-    }
+}
