@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfa349bd-b5c2-4152-8b27-3d2f185e7fd6" name="Changes" comment="привет" />
+    <list default="true" id="bfa349bd-b5c2-4152-8b27-3d2f185e7fd6" name="Changes" comment="SetHW - 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +19,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677854338891</updated>
       <workItem from="1677854340395" duration="127000" />
+      <workItem from="1677854477550" duration="395000" />
     </task>
     <task id="LOCAL-00001" summary="привет">
       <created>1677854421806</created>
@@ -43,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677854421806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SetHW - 9">
+      <created>1677854861011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677854861011</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +75,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="привет" />
-    <option name="LAST_COMMIT_MESSAGE" value="привет" />
+    <MESSAGE value="SetHW 9" />
+    <MESSAGE value="SetHW - 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="SetHW - 9" />
   </component>
 </project>

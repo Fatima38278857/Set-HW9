@@ -40,7 +40,7 @@ public class Main {
         }
         // Первый способ
         Map<String, String> carMechanic = new HashMap<>();
-        carMechanic.put("toyota", "Майк Джонс");
+        carMechanic.put("toyota", " Майк Джонс");
         carMechanic.put("gaz", "Джон Тернер");
         carMechanic.put("kama", "Клейтон Мерч");
 
