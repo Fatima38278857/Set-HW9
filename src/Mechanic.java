@@ -42,7 +42,7 @@ public class Mechanic {
 
     @Override
     public String toString() {
-        return "Mechanic{" + "Имя и фамилия механика='" + mechanicName + '\'' + ", Компания='" + company + '\'' + '}';
+        return "Mechanic{" + "Имя и фамилия механика='" + mechanicName + '\'' + ", Компания ='" + company + '\'' + '}';
     }
 
     @Override

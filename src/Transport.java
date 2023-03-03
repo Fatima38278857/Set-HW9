@@ -93,7 +93,7 @@ public abstract class Transport<T extends Driver> {
     }
 
     public String maintenance() {
-        return "ТО проведен";
+        return " ТО проведен";
     }
 
     public String carRepairs() {
